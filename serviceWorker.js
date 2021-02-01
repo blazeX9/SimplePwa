@@ -1,18 +1,18 @@
 const staticMoreCoffee =  "more-coffee-site-v1";
 const assets = [
-    "/",
-    "/index.html",
-    "/css/style.css",
-    "/js/app.js",
-    "/images/coffee1",
-    "/images/coffee2",
-    "/images/coffee3",
-    "/images/coffee4",
-    "/images/coffee5",
-    "/images/coffee6",
-    "/images/coffee7",
-    "/images/coffee8",
-    "/images/coffee9",
+    "./",
+    "./index.html",
+    "./css/style.css",
+    "./js/app.js",
+    "./images/coffee1",
+    "./images/coffee2",
+    "./images/coffee3",
+    "./images/coffee4",
+    "./images/coffee5",
+    "./images/coffee6",
+    "./images/coffee7",
+    "./images/coffee8",
+    "./images/coffee9",
 ];
 
 self.addEventListener("install", installEvent => {
